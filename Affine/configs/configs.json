@@ -1,0 +1,13 @@
+{
+ "filename": "3",
+ "keypoint_detector": "sift",
+ "minHessian": 400,
+ "image_width": 832,
+ "image_height":464,
+ "ratio_thres": 0.7,
+ "smoothing_window_size": 200,
+ "blending" : "laplace",
+ "alpha_val": 0.4,
+ "base_image": 0,
+ "panorama_size": [4096, 4096]
+}
