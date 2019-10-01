@@ -1,5 +1,7 @@
-For perspective transformations, go to perspective folder.
+For perspective transformations, go to ./Perspective and for affine go to ./Affine
 
-Put your data into a folder and put that folder into "Data" folder.
+1. Put your data into a folder and put that folder into "Data" folder.
+2. Change the "filename" in ./Perspective/configs/configs.json
+3. Run python panorama.py and find your results in /Perspective/Visuals/{filename}
 
-Run python panorama.py and find your results in visuals folder.
+Please refer to the report for theory and procedural understanding and any other issues are welcome at Piyush.ee317@ee.iitd.ac.in.
